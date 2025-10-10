@@ -1,0 +1,12 @@
+p { color: rgb(85, 12, 12) ; }
+h1 { background: rgb(163, 14, 14) ; }
+h1 { font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; }
+
+.highlight_01 li{background: rgb(214, 87, 87) ; } 
+.high2 {background: red ; } 
+.high3 {background: green ; }
+.high4 {background: purple ; }
+.high5 {background: blue ; } 
+#cc_tour{
+    height: 200px;
+width:150px;}
